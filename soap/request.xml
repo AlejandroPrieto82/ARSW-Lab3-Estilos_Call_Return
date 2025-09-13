@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope 
+  xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:arsw="http://arsw.edu.eci/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <arsw:saludar>
+      <nombre>Samuel</nombre>
+    </arsw:saludar>
+  </soapenv:Body>
+</soapenv:Envelope>
